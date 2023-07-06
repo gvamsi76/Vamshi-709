@@ -9,4 +9,4 @@ Self Tougher
 
 Currently Thinking about your reading this.. 
 
-feature's project ......loading with **MERN**
+future project ......loading with **MERN**
