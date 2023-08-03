@@ -1,7 +1,7 @@
 
 My Self  Vamshi Krishna 😎
 
-I'm a Frnotend web developer ..
+I'm a Front-end web developer ..
 
 Tech : **JavaScript** **React Js** **Next Js** **Git** **Node Js** **Redux** **Etc..😊 **
 
